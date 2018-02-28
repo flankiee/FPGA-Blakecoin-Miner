@@ -12,8 +12,9 @@ See https://bitcointalk.org/index.php?topic=306894.0 for forum discussion.
 
 Special thanks to fpgaminer for the original bitcoin mining code, teknohog for his
 serial code, also OrphanedGland, udif, TheSeven, makomk, and newMeat1 as credited on
-the fpgaminer bitcoin thread https://bitcointalk.org/index.php?topic=9047.0 and ngzhang
-for his Icarus/Lancelot boards and github. Not forgetting bluedragon747 for blakecoin!
+the fpgaminer bitcoin thread https://bitcointalk.org/index.php?topic=9047.0 and 
+ngzhang for his Icarus/Lancelot boards and github https://github.com/ngzhang/Icarus. 
+Not forgetting bluedragon747 for blakecoin!
 
 ### Ports are available for icarus/lancelot, ztex 1.15x, 1.15y and Cairnsmore CM1.
 The code currently achieves:
@@ -21,8 +22,8 @@ around 780MHash/s at 195Mhz on the lancelot board
 around 1.5Gh/s on the quad boards (1.15y, CM1). 
 All code is in the experimental folder and the bitstreams links for download are in bitstreams.txt
 
-All are supported by a modified cgminer 3.1.1 for use solo or on pool, there is also a
-python miner for the Icarus/Lancelot board (solo mining, or pool via getwork only).
+All are supported by a modified cgminer 3.1.1 for use solo or on pool, https://github.com/kR105-zz/cgminer-alt
+there is also a python miner for the Icarus/Lancelot board (solo mining, or pool via getwork only).
 
 
 ### Performance
